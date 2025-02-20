@@ -61,14 +61,21 @@
     <Analyzer Include="/Applications/Unity/Hub/Editor/2023.2.4f1/Unity.app/Contents/Tools/Unity.SourceGenerators/Unity.UIToolkit.SourceGenerator.dll" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets/Prefabs/ContactDamager_Chapter8.cs" />
     <Compile Include="Assets/Scripts/Life.cs" />
+    <Compile Include="Assets/Scripts/ScoreManager.cs" />
     <Compile Include="Assets/Scripts/MyFirstScript.cs" />
+    <Compile Include="Assets/Scripts/EnemyManager.cs" />
+    <Compile Include="Assets/Scripts/Life_Chapter8.cs" />
     <Compile Include="Assets/Scripts/WaveSpawner.cs" />
+    <Compile Include="Assets/Scripts/Enemy.cs" />
     <Compile Include="Assets/Scripts/ContactDestroyer.cs" />
     <Compile Include="Assets/Scripts/ContactDamager.cs" />
     <Compile Include="Assets/Scripts/ForwardMovement.cs" />
+    <Compile Include="Assets/Scripts/ScoreOnDeath.cs" />
     <Compile Include="Assets/TutorialInfo/Scripts/Readme.cs" />
     <Compile Include="Assets/Scripts/PlayerShooting.cs" />
+    <Compile Include="Assets/Prefabs/EnableCursor.cs" />
     <Compile Include="Assets/Scripts/PlayerMovement.cs" />
   </ItemGroup>
   <ItemGroup>
