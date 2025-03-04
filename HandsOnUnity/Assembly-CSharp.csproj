@@ -72,6 +72,8 @@
     <Compile Include="Assets/Scripts/ContactDestroyer.cs" />
     <Compile Include="Assets/Scripts/ContactDamager.cs" />
     <Compile Include="Assets/Scripts/ForwardMovement.cs" />
+    <Compile Include="Assets/Scripts/Sight.cs" />
+    <Compile Include="Assets/Scripts/EnemyFSM.cs" />
     <Compile Include="Assets/Scripts/ScoreOnDeath.cs" />
     <Compile Include="Assets/TutorialInfo/Scripts/Readme.cs" />
     <Compile Include="Assets/Scripts/PlayerShooting.cs" />
