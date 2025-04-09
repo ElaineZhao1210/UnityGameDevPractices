@@ -65,6 +65,7 @@
     <Compile Include="Assets/Scripts/Life.cs" />
     <Compile Include="Assets/Scripts/ScoreManager.cs" />
     <Compile Include="Assets/Scripts/MyFirstScript.cs" />
+    <Compile Include="Assets/Scripts/PlayerShooting_Chapter11.cs" />
     <Compile Include="Assets/Scripts/EnemyManager.cs" />
     <Compile Include="Assets/Scripts/Life_Chapter8.cs" />
     <Compile Include="Assets/Scripts/WaveSpawner.cs" />
@@ -74,11 +75,16 @@
     <Compile Include="Assets/Scripts/ForwardMovement.cs" />
     <Compile Include="Assets/Scripts/Sight.cs" />
     <Compile Include="Assets/Scripts/EnemyFSM.cs" />
+    <Compile Include="Assets/Scripts/ExplosionOnDeath.cs" />
     <Compile Include="Assets/Scripts/ScoreOnDeath.cs" />
     <Compile Include="Assets/TutorialInfo/Scripts/Readme.cs" />
     <Compile Include="Assets/Scripts/PlayerShooting.cs" />
     <Compile Include="Assets/Prefabs/EnableCursor.cs" />
     <Compile Include="Assets/Scripts/PlayerMovement.cs" />
+    <Compile Include="Assets/Scripts/EnemyFSM_Chapter11.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Assets/Sci-Fi Styled Modular Pack/Readme.txt" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
